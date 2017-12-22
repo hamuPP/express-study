@@ -1,0 +1,16 @@
+{
+  "name": "express-backendonly-study",
+  "version": "1.0.0",
+  "description": "只用express做个后端服务的教程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node后端",
+    "个人学习"
+  ],
+  "author": "tangyue 734877275@qq.com",
+  "license": "MIT"
+}
