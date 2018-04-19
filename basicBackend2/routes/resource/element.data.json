@@ -1,0 +1,10 @@
+{
+	"meta": {
+		"code": 1,
+		"message": "成功"
+	},
+	"data": {
+		"data": "{ title:{ text:\u0027日发电量\u0027, textStyle:{ align:\u0027center\u0027, fontSize:\u002716\u0027 } }, tooltip : { trigger: \u0027axis\u0027, axisPointer : { type : \u0027shadow\u0027 } }, toolbox: { feature: { dataView: {show: true, readOnly: false}, magicType: {show: true, type: [\u0027line\u0027, \u0027bar\u0027]}, restore: {show: true},            saveAsImage: {show: true} } }, xAxis : [ {type : \u0027category\u0027,data : [\u0027日计划电量\u0027, \u0027预计日发电\u0027, \u0027已发电量\u0027],axisTick: { alignWithLabel: true}}],yAxis : [{type : \u0027value\u0027,name: \u0027万千瓦时\u0027,} ],    series : [{name:\u0027值\u0027,type:\u0027bar\u0027,barWidth: \u002750%\u0027,data:[74.275,null,null]}]};",
+		"id": "aa2691a8-b70d-4dfe-a7b2-f8640fc76697"
+	}
+}

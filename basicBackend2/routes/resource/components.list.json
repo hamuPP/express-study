@@ -1,0 +1,21 @@
+{
+	"meta": {
+		"code": 1,
+		"message": "成功"
+	},
+	"data": [
+		{
+			"id": "aa2691a8-b70d-4dfe-a7b2-f8640fc76697",
+			"userId": "admin",
+			"appCode": "tb",
+			"resCode": "rfdl",
+			"resType": "4",
+			"resRatio": "0.33",
+			"resOrder": 1,
+			"dataUrl": "http://10.176.156.95:20210/resources/rfdl?access_token\u003da6855ac1-944c-45b1-951e-8f78036ea51f",
+			"createTime": "2018-01-23 18:28:23",
+			"updateTime": "2018-01-23 18:28:23",
+			"resName": "日发电量"
+		}
+	]
+}

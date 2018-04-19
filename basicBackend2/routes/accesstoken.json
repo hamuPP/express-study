@@ -1,0 +1,15 @@
+{
+	"meta": {
+		"code": 1,
+		"message": "成功"
+	},
+	"data": {
+		"value": "130403dc-e68c-4c0c-bd5e-851ec845f220",
+		"expiration": "2018-01-04 21:20:48",
+		"tokenType": "bearer",
+		"scope": [
+			"read"
+		],
+		"additionalInformation": {}
+	}
+}

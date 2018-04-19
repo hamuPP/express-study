@@ -1,0 +1,123 @@
+{
+	"meta": {
+		"code": 1,
+		"message": "成功"
+	},
+	"data": {
+		"page": 1,
+		"rows": 10,
+		"total": 19,
+		"data": [
+			{
+				"id": 1,
+				"annoTitle": "单个",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-18 17:53:15",
+				"effectiveStartTime": "2018-01-10 09:27:00.0",
+				"effectiveEndTime": "2018-01-26 12:36:45.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 19,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 16:30:51",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 18,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 16:28:59",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 17,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 15:53:27",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 16,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 15:52:59",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 15,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 15:50:31",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 14,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 15:46:29",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 13,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 15:36:26",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 12,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 15:26:40",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "1",
+				"isTop": "1"
+			},
+			{
+				"id": 11,
+				"annoTitle": "新添加的公告222",
+				"releasePerson": "admin",
+				"annoType": 1,
+				"createDate": "2018-01-15 14:56:16",
+				"effectiveStartTime": "2017-12-31 00:00:00.0",
+				"effectiveEndTime": "2018-01-16 00:00:00.0",
+				"isRelease": "2",
+				"isTop": "1"
+			}
+		]
+	}
+}

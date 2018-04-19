@@ -1,0 +1,23 @@
+{
+	"meta": {
+		"code": 1,
+		"message": "成功"
+	},
+	"data": {
+		"userName": "管理员",
+		"loginName": "admin",
+		"userAccountType": 1,
+		"sex": 1,
+		"account": "admin",
+		"telephone": "123123123",
+		"identityCard": "513423198203070494",
+		"curStatus": 1,
+		"orgName": "四川省能投集团有限公司",
+		"orgCode": "rootka9exkrayqsy",
+		"orgType": "00",
+		"clientId": "xfq",
+		"callbackUrl": "http://192.168.1.163:20400/oauth/callback",
+		"appName": "统一门户",
+		"appCode": "tymh"
+	}
+}
