@@ -1,0 +1,18 @@
+{
+	"meta": {
+		"code": 1,
+		"message": "成功"
+	},
+	"data": [
+		{
+			"clientId": "801505c8-8647-4684-8661-af5a3f9de4c5",
+			"clientName": "物资系统",
+			"count": 5
+		},
+		{
+			"clientId": "fc1a0518-2048-4287-b1db-2e06dad859c5",
+			"clientName": "生产系统",
+			"count": 328
+		}
+	]
+}

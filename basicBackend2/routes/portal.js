@@ -51,6 +51,18 @@ function VerbGet(reqq,ress){
                 ress.send(data)
             });
             break;
+        case '/backlogsData':
+            fs.readFile('routes/portal/backlogsData.json', 'utf8', (err, data) => {
+                if (err) throw err;
+                ress.send(data)
+            });
+            break;
+        case '/backlogsTagData':
+            fs.readFile('routes/portal/backlogsTagData.json', 'utf8', (err, data) => {
+                if (err) throw err;
+                ress.send(data)
+            });
+            break;
         case '/resources/admin/functions':
             fs.readFile('routes/portal/functions.json', 'utf8', (err, data) => {
                 if (err) throw err;
